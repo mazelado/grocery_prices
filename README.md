@@ -1,2 +1,2 @@
 # grocery_prices
-Displays grocery prices per unit
+Tampermonkey/Violentmonkey script to display grocery prices per unit on Hy-Vee Aisles Online site.
