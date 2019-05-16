@@ -7,7 +7,3 @@ Beta - Not dead, but not actively being developed
 ## Languages/Frameworks used:
 * Javascript
 * [jQuery](https://jquery.com/)
-
-## To Do:
-* Currently refreshes the script every second, it would be better to run on load and then whenever the AJAX event fires
-* Sort items by price/unit
